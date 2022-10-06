@@ -1,0 +1,705 @@
+Sat Mar 19 19:45:53 UserDiv from Layout.INI for AutoECO: 60
+Sat Mar 19 19:45:53 Loaded file C:\CADENCE\SPB_16.2\TOOLS\LAYOUT_PLUS\DATA\_DEFAULT.TCH
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\BCON100T.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\BCON156T.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\BGA.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\CLCC.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DCON050T.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DCON085T.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DIMM050F.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DIMM050T.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DIN.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DIP100B.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DIP100T.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DSUBT.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\ECON100T.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\FBUS.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\ISA.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\JUMPER.LLB
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\LAYOUT.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\LCON100T.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PC104.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PCI.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PCON100T.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PCON156T.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PGA.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PLCC.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\QUAD.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\QUADB.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\RELAY.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\RF.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SBUS.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SIMM050F.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SIMM050T.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SIMM100F.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SIMM100T.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SIP.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SM.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SOG.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SOJ.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\STIFF.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TELE.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_CYLND.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_DIODE.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_DISC.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_RAD.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TO.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TRAINING.LLB
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\VRES.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\WCON100T.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\XT.llb
+Sat Mar 19 19:45:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\ZIGZAG.llb
+Sat Mar 19 19:45:55 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\data\template.imp
+Sat Mar 19 19:45:55 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\data\template.imp
+Sat Mar 19 19:52:04 Saved as file ~undo.max
+Sat Mar 19 19:52:09 Saved as file ~undo.max
+Sat Mar 19 19:52:16 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-1.MAX
+Sat Mar 19 19:52:30 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\data\template.imp
+Sat Mar 19 19:52:30 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\data\template.imp
+Sat Mar 19 19:52:33 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\3D_PRINTER.LLB
+Sat Mar 19 19:52:34 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\IR_ENDSTOP.LLB
+Sat Mar 19 19:52:35 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\3D_PRINTER.LLB
+Sat Mar 19 19:52:40 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\3D_PRINTER_FIX.LLB
+Sat Mar 19 19:52:42 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\3D_PRINTER_GALVO.LLB
+Sat Mar 19 19:52:45 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\IR_ENDSTOP.LLB
+Sat Mar 19 19:52:47 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\LIB.BOTTOM.SMD_MN.LLB
+Sat Mar 19 19:52:50 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\LIB.SMD.TOP.BOT.LLB
+Sat Mar 19 19:52:52 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\LIB.SMD_MN.LLB
+Sat Mar 19 19:52:55 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\LIB-SMT-OK.LLB
+Sat Mar 19 19:52:58 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\LID-AI-OK.LLB
+Sat Mar 19 20:32:29 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-2.MAX
+Sat Mar 19 20:32:41 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-2.MAX
+Sat Mar 19 20:34:49 Saved as file ~undo.max
+Sat Mar 19 20:38:35 Saved as file BACKUP1.MAX
+Sat Mar 19 20:42:35 Saved as file ~undo.max
+Sat Mar 19 20:44:31 Saved as file ~undo.max
+Sat Mar 19 20:46:51 Saved as file ~undo.max
+Sat Mar 19 20:48:22 Saved as file ~undo.max
+Sat Mar 19 20:48:35 Saved as file BACKUP1.MAX
+Sat Mar 19 20:53:05 Saved as file ~undo.max
+Sat Mar 19 20:53:48 Saved as file ~undo.max
+Sat Mar 19 20:54:24 Saved as file ~undo.max
+Sat Mar 19 20:56:53 Saved as file ~undo.max
+Sat Mar 19 20:56:54 Saved as file ~undo.max
+Sat Mar 19 20:56:59 Saved as file ~undo.max
+Sat Mar 19 20:57:13 Saved as file ~undo.max
+Sat Mar 19 20:58:14 Saved as file ~undo.max
+Sat Mar 19 20:58:35 Saved as file BACKUP1.MAX
+Sat Mar 19 20:59:35 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-2.MAX
+Sat Mar 19 21:04:24 Saved as file BACKUP1.MAX
+Sat Mar 19 21:04:24 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-2.MAX
+Sat Mar 19 21:04:25 UserDiv from Layout.INI for AutoECO: 60
+Sat Mar 19 21:04:25 Loaded file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-2.MAX
+Sat Mar 19 21:04:25 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\MN_THU VIEN ORCARD_STANDARD\LAYOUT_LIBBRARY_ORCAD9.2\1.MN_DIP_LIBRARY ORCAD.LLB
+Sat Mar 19 21:04:25 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\MN_THU VIEN ORCARD_STANDARD\DIP_MN.LLB
+Sat Mar 19 21:04:25 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\LIB.DIP_MN.LLB
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\BCON100T.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\BCON156T.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\BGA.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\CLCC.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DCON050T.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DCON085T.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DIMM050F.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DIMM050T.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DIN.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DIP100B.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DIP100T.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DSUBT.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\ECON100T.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\FBUS.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\ISA.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\JUMPER.LLB
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\LAYOUT.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\LCON100T.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PC104.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PCI.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PCON100T.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PCON156T.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PGA.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PLCC.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\QUAD.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\QUADB.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\RELAY.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\RF.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SBUS.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SIMM050F.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SIMM050T.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SIMM100F.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SIMM100T.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SIP.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SM.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SOG.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SOJ.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\STIFF.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TELE.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_CYLND.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_DIODE.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_DISC.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_RAD.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TO.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TRAINING.LLB
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\VRES.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\WCON100T.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\XT.llb
+Sat Mar 19 21:04:25 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\ZIGZAG.llb
+Sat Mar 19 21:04:27 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-3.MAX
+Sat Mar 19 21:04:27 Loaded file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-3.MAX
+Sat Mar 19 21:04:55 Saved as file ~undo.max
+Sat Mar 19 21:05:18 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-3.MAX
+Sat Mar 19 21:06:33 Saved as file BACKUP1.MAX
+Sat Mar 19 21:06:33 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-3.MAX
+Sat Mar 19 21:06:34 UserDiv from Layout.INI for AutoECO: 60
+Sat Mar 19 21:06:34 Loaded file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-3.MAX
+Sat Mar 19 21:06:34 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\MN_THU VIEN ORCARD_STANDARD\LAYOUT_LIBBRARY_ORCAD9.2\1.MN_DIP_LIBRARY ORCAD.LLB
+Sat Mar 19 21:06:34 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\MN_THU VIEN ORCARD_STANDARD\DIP_MN.LLB
+Sat Mar 19 21:06:34 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\LIB.DIP_MN.LLB
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\BCON100T.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\BCON156T.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\BGA.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\CLCC.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DCON050T.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DCON085T.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DIMM050F.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DIMM050T.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DIN.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DIP100B.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DIP100T.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DSUBT.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\ECON100T.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\FBUS.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\ISA.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\JUMPER.LLB
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\LAYOUT.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\LCON100T.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PC104.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PCI.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PCON100T.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PCON156T.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PGA.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PLCC.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\QUAD.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\QUADB.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\RELAY.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\RF.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SBUS.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SIMM050F.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SIMM050T.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SIMM100F.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SIMM100T.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SIP.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SM.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SOG.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SOJ.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\STIFF.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TELE.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_CYLND.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_DIODE.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_DISC.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_RAD.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TO.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TRAINING.LLB
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\VRES.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\WCON100T.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\XT.llb
+Sat Mar 19 21:06:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\ZIGZAG.llb
+Sat Mar 19 21:06:35 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-4.MAX
+Sat Mar 19 21:06:35 Loaded file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-4.MAX
+Sat Mar 19 21:06:37 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-4.MAX
+Sat Mar 19 21:07:05 Saved as file ~undo.max
+Sat Mar 19 21:07:19 Saved as file ~undo.max
+Sat Mar 19 21:07:40 Saved as file ~undo.max
+Sat Mar 19 21:07:41 Saved as file ~undo.max
+Sat Mar 19 21:08:06 Saved as file ~undo.max
+Sat Mar 19 21:08:14 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-4.MAX
+Sat Mar 19 21:08:29 Saved as file ~undo.max
+Sat Mar 19 21:08:35 Saved as file ~undo.max
+Sat Mar 19 21:08:36 Saved as file ~undo.max
+Sat Mar 19 21:08:40 Saved as file ~undo.max
+Sat Mar 19 21:08:41 Saved as file ~undo.max
+Sat Mar 19 21:09:35 Saved as file BACKUP1.MAX
+Sat Mar 19 21:17:42 Saved as file ~undo.max
+Sat Mar 19 21:18:06 Saved as file ~undo.max
+Sat Mar 19 21:18:13 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-4.MAX
+Sat Mar 19 21:19:36 Saved as file BACKUP1.MAX
+Sat Mar 19 21:20:41 Saved as file ~undo.max
+Sat Mar 19 21:20:42 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-4.MAX
+Sat Mar 19 21:21:14 Saved as file ~undo.max
+Sat Mar 19 21:21:26 Saved as file ~undo.max
+Sat Mar 19 21:21:54 Saved as file ~undo.max
+Sat Mar 19 21:22:39 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-4.MAX
+Sat Mar 19 21:29:36 Saved as file BACKUP1.MAX
+Sat Mar 19 21:39:36 Saved as file BACKUP1.MAX
+Sat Mar 19 21:45:22 Saved as file ~undo.max
+Sat Mar 19 21:45:42 Saved as file ~undo.max
+Sat Mar 19 21:45:43 Saved as file ~undo.max
+Sat Mar 19 21:46:06 Saved as file ~undo.max
+Sat Mar 19 21:46:44 Saved as file ~undo.max
+Sat Mar 19 21:47:10 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-4.MAX
+Sat Mar 19 21:47:42 Saved as file ~undo.max
+Sat Mar 19 21:49:11 Saved as file ~undo.max
+Sat Mar 19 21:49:37 Saved as file BACKUP1.MAX
+Sat Mar 19 21:51:08 Saved as file ~undo.max
+Sat Mar 19 21:52:21 Saved as file ~undo.max
+Sat Mar 19 21:54:38 Saved as file ~undo.max
+Sat Mar 19 21:55:07 Saved as file ~undo.max
+Sat Mar 19 21:55:13 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-4.MAX
+Sat Mar 19 21:55:18 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-4.MAX
+Sat Mar 19 21:56:21 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-4.MAX
+Sat Mar 19 21:56:28 Saved as file ~undo.max
+Sat Mar 19 21:57:43 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-4.MAX
+Sat Mar 19 21:57:47 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-4.MAX
+Sat Mar 19 21:58:04 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-4.MAX
+Sat Mar 19 21:58:30 Saved as file ~undo.max
+Sat Mar 19 21:59:37 Saved as file BACKUP1.MAX
+Sat Mar 19 22:00:48 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-4.MAX
+Sat Mar 19 22:00:53 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-5.MAX
+Sat Mar 19 22:02:43 Saved as file ~undo.max
+Sat Mar 19 22:06:46 Saved as file ~undo.max
+Sat Mar 19 22:09:37 Saved as file BACKUP1.MAX
+Sat Mar 19 22:09:59 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-5.MAX
+Sat Mar 19 22:18:24 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-5.MAX
+Sat Mar 19 22:19:38 Saved as file BACKUP1.MAX
+Sat Mar 19 22:24:25 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-5.MAX
+Sat Mar 19 22:25:08 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-5.MAX
+Sat Mar 19 22:25:57 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-5.MAX
+Sat Mar 19 22:27:15 Saved as file ~undo.max
+Sat Mar 19 22:29:38 Saved as file BACKUP1.MAX
+Sat Mar 19 22:32:52 Saved as file ~undo.max
+Sat Mar 19 22:32:53 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-5.MAX
+Sat Mar 19 22:34:12 Saved as file ~undo.max
+Sat Mar 19 22:34:15 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-5.MAX
+Sat Mar 19 22:34:22 Saved as file ~undo.max
+Sat Mar 19 22:35:52 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-5.MAX
+Sat Mar 19 22:39:38 Saved as file BACKUP1.MAX
+Sat Mar 19 22:41:36 Saved as file ~undo.max
+Sat Mar 19 22:42:29 Saved as file ~undo.max
+Sat Mar 19 22:44:53 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-5.MAX
+Sat Mar 19 22:46:35 Saved as file ~undo.max
+Sat Mar 19 22:47:02 Saved as file ~undo.max
+Sat Mar 19 22:48:31 Saved as file ~undo.max
+Sat Mar 19 22:49:01 Saved as file ~undo.max
+Sat Mar 19 22:49:12 Saved as file ~undo.max
+Sat Mar 19 22:49:38 Saved as file BACKUP1.MAX
+Sat Mar 19 22:49:53 Saved as file ~undo.max
+Sat Mar 19 22:49:55 Saved as file ~undo.max
+Sat Mar 19 22:50:30 Saved as file ~undo.max
+Sat Mar 19 22:51:36 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-5.MAX
+Sat Mar 19 22:51:57 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-6.MAX
+Sat Mar 19 22:53:34 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-6.MAX
+Sat Mar 19 22:53:46 Saved as file ~undo.max
+Sat Mar 19 22:54:37 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-6.MAX
+Sat Mar 19 22:54:47 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-6.MAX
+Sat Mar 19 22:55:13 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-6.MAX
+Sat Mar 19 22:55:46 Saved as file ~undo.max
+Sat Mar 19 22:55:52 Saved as file ~undo.max
+Sat Mar 19 22:56:43 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-6.MAX
+Sat Mar 19 22:57:01 Saved as file ~undo.max
+Sat Mar 19 22:57:02 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-6.MAX
+Sat Mar 19 22:57:24 Saved as file ~undo.max
+Sat Mar 19 22:58:17 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-6.MAX
+Sat Mar 19 23:00:09 Saved as file BACKUP1.MAX
+Sat Mar 19 23:00:41 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-6.MAX
+Sat Mar 19 23:01:31 Saved as file ~undo.max
+Sat Mar 19 23:01:49 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-6.MAX
+Sat Mar 19 23:02:20 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-6.MAX
+Sat Mar 19 23:03:31 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-6.MAX
+Sat Mar 19 23:07:28 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-6.MAX
+Sat Mar 19 23:08:16 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-6.MAX
+Sat Mar 19 23:08:18 Saved as file ~undo.max
+Sat Mar 19 23:08:23 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:08:38 Saved as file ~undo.max
+Sat Mar 19 23:08:48 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:09:52 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:09:59 Saved as file ~undo.max
+Sat Mar 19 23:10:17 Saved as file ~undo.max
+Sat Mar 19 23:11:09 Saved as file BACKUP1.MAX
+Sat Mar 19 23:11:59 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:12:46 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:12:57 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:14:39 Saved as file ~undo.max
+Sat Mar 19 23:14:51 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:16:21 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:18:14 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:18:32 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:19:30 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:19:36 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:19:41 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:20:08 Saved as file ~undo.max
+Sat Mar 19 23:20:09 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:20:55 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:21:09 Saved as file BACKUP1.MAX
+Sat Mar 19 23:21:52 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:22:24 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:23:33 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:24:38 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:31:10 Saved as file BACKUP1.MAX
+Sat Mar 19 23:37:05 Saved as file ~undo.max
+Sat Mar 19 23:37:16 Saved as file ~undo.max
+Sat Mar 19 23:39:01 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:41:05 Saved as file ~undo.max
+Sat Mar 19 23:41:10 Saved as file BACKUP1.MAX
+Sat Mar 19 23:42:04 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:42:48 Saved as file ~undo.max
+Sat Mar 19 23:42:49 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:44:05 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:45:35 Saved as file ~undo.max
+Sat Mar 19 23:47:03 Saved as file ~undo.max
+Sat Mar 19 23:47:14 Saved as file ~undo.max
+Sat Mar 19 23:47:26 Saved as file ~undo.max
+Sat Mar 19 23:47:27 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:47:59 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:49:25 Saved as file ~undo.max
+Sat Mar 19 23:49:54 Saved as file ~undo.max
+Sat Mar 19 23:50:04 Saved as file ~undo.max
+Sat Mar 19 23:50:45 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:51:10 Saved as file BACKUP1.MAX
+Sat Mar 19 23:51:38 Saved as file ~undo.max
+Sat Mar 19 23:52:40 Saved as file ~undo.max
+Sat Mar 19 23:53:00 Saved as file ~undo.max
+Sat Mar 19 23:55:38 Saved as file ~undo.max
+Sat Mar 19 23:56:03 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:56:11 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:56:14 Saved as file ~undo.max
+Sat Mar 19 23:56:47 Saved as file ~undo.max
+Sat Mar 19 23:56:50 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sat Mar 19 23:57:35 Saved as file ~undo.max
+Sat Mar 19 23:57:36 Saved as file ~undo.max
+Sat Mar 19 23:57:38 Saved as file ~undo.max
+Sat Mar 19 23:57:45 Saved as file ~undo.max
+Sat Mar 19 23:57:48 Saved as file ~undo.max
+Sat Mar 19 23:57:51 Saved as file ~undo.max
+Sat Mar 19 23:57:55 Saved as file ~undo.max
+Sat Mar 19 23:58:07 Saved as file ~undo.max
+Sat Mar 19 23:58:09 Saved as file ~undo.max
+Sat Mar 19 23:58:15 Saved as file ~undo.max
+Sat Mar 19 23:58:18 Saved as file ~undo.max
+Sat Mar 19 23:58:28 Saved as file ~undo.max
+Sat Mar 19 23:58:33 Saved as file ~undo.max
+Sat Mar 19 23:58:36 Saved as file ~undo.max
+Sat Mar 19 23:58:39 Saved as file ~undo.max
+Sat Mar 19 23:58:44 Saved as file ~undo.max
+Sat Mar 19 23:58:47 Saved as file ~undo.max
+Sat Mar 19 23:58:50 Saved as file ~undo.max
+Sat Mar 19 23:58:56 Saved as file ~undo.max
+Sat Mar 19 23:59:00 Saved as file ~undo.max
+Sat Mar 19 23:59:05 Saved as file ~undo.max
+Sat Mar 19 23:59:23 Saved as file ~undo.max
+Sat Mar 19 23:59:25 Saved as file ~undo.max
+Sun Mar 20 00:01:11 Saved as file BACKUP1.MAX
+Sun Mar 20 00:01:32 Saved as file ~undo.max
+Sun Mar 20 00:02:03 Saved as file ~undo.max
+Sun Mar 20 00:02:16 Saved as file ~undo.max
+Sun Mar 20 00:02:18 Saved as file ~undo.max
+Sun Mar 20 00:02:21 Saved as file ~undo.max
+Sun Mar 20 00:02:23 Saved as file ~undo.max
+Sun Mar 20 00:02:39 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sun Mar 20 00:02:53 Saved as file ~undo.max
+Sun Mar 20 00:02:55 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sun Mar 20 00:03:03 Saved as file ~undo.max
+Sun Mar 20 00:03:05 Saved as file ~undo.max
+Sun Mar 20 00:03:08 Saved as file ~undo.max
+Sun Mar 20 00:03:38 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sun Mar 20 00:03:45 Saved as file ~undo.max
+Sun Mar 20 00:03:48 Saved as file ~undo.max
+Sun Mar 20 00:03:50 Saved as file ~undo.max
+Sun Mar 20 00:03:52 Saved as file ~undo.max
+Sun Mar 20 00:04:02 Saved as file ~undo.max
+Sun Mar 20 00:04:18 Saved as file ~undo.max
+Sun Mar 20 00:05:59 Saved as file ~undo.max
+Sun Mar 20 00:06:22 Saved as file ~undo.max
+Sun Mar 20 00:06:24 Saved as file ~undo.max
+Sun Mar 20 00:06:27 Saved as file ~undo.max
+Sun Mar 20 00:06:29 Saved as file ~undo.max
+Sun Mar 20 00:06:31 Saved as file ~undo2.max
+Sun Mar 20 00:06:31 Loaded file ~undo.max
+Sun Mar 20 00:07:29 Saved as file ~undo.max
+Sun Mar 20 00:07:46 Saved as file ~undo.max
+Sun Mar 20 00:07:48 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sun Mar 20 00:10:23 Saved as file ~undo.max
+Sun Mar 20 00:10:26 Saved as file ~undo.max
+Sun Mar 20 00:10:32 Saved as file ~undo.max
+Sun Mar 20 00:10:35 Saved as file ~undo.max
+Sun Mar 20 00:10:39 Saved as file ~undo.max
+Sun Mar 20 00:10:40 Saved as file ~undo.max
+Sun Mar 20 00:10:49 Saved as file ~undo.max
+Sun Mar 20 00:10:51 Saved as file ~undo.max
+Sun Mar 20 00:10:52 Saved as file ~undo.max
+Sun Mar 20 00:10:55 Saved as file ~undo.max
+Sun Mar 20 00:10:57 Saved as file ~undo.max
+Sun Mar 20 00:11:00 Saved as file ~undo.max
+Sun Mar 20 00:11:01 Saved as file ~undo.max
+Sun Mar 20 00:11:03 Saved as file ~undo.max
+Sun Mar 20 00:11:11 Saved as file BACKUP1.MAX
+Sun Mar 20 00:11:12 Saved as file ~undo.max
+Sun Mar 20 00:11:13 Saved as file ~undo.max
+Sun Mar 20 00:11:46 Saved as file ~undo.max
+Sun Mar 20 00:11:49 Saved as file ~undo.max
+Sun Mar 20 00:11:51 Saved as file ~undo.max
+Sun Mar 20 00:11:55 Saved as file ~undo.max
+Sun Mar 20 00:12:27 Saved as file ~undo.max
+Sun Mar 20 00:12:36 Saved as file ~undo.max
+Sun Mar 20 00:12:52 Saved as file ~undo.max
+Sun Mar 20 00:13:50 Saved as file ~undo.max
+Sun Mar 20 00:14:56 Saved as file ~undo.max
+Sun Mar 20 00:15:01 Saved as file ~undo.max
+Sun Mar 20 00:15:16 Saved as file ~undo.max
+Sun Mar 20 00:15:18 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sun Mar 20 00:15:27 Saved as file ~undo.max
+Sun Mar 20 00:16:08 Saved as file ~undo.max
+Sun Mar 20 00:16:19 Saved as file ~undo.max
+Sun Mar 20 00:16:47 Saved as file ~undo.max
+Sun Mar 20 00:16:48 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sun Mar 20 00:17:41 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sun Mar 20 00:17:53 Saved as file ~undo.max
+Sun Mar 20 00:17:54 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sun Mar 20 00:20:11 Saved as file ~undo.max
+Sun Mar 20 00:20:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\data\template.imp
+Sun Mar 20 00:20:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\data\template.imp
+Sun Mar 20 00:20:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\data\template.imp
+Sun Mar 20 00:20:34 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\data\template.imp
+Sun Mar 20 00:20:36 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\MN_THU VIEN ORCARD_STANDARD\LAYOUT_LIBBRARY_ORCAD9.2\1.MN_DIP_LIBRARY ORCAD.LLB
+Sun Mar 20 00:20:36 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\MN_THU VIEN ORCARD_STANDARD\DIP_MN.LLB
+Sun Mar 20 00:20:39 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\MN_THU VIEN ORCARD_STANDARD\LAYOUT_LIBBRARY_ORCAD9.2\1.MN_DIP_LIBRARY ORCAD.LLB
+Sun Mar 20 00:20:42 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\data\template.imp
+Sun Mar 20 00:20:46 Saved as file ~undo.max
+Sun Mar 20 00:20:55 Saved as file ~undo.max
+Sun Mar 20 00:20:56 Saved as file ~undo.max
+Sun Mar 20 00:21:05 Saved as file ~undo.max
+Sun Mar 20 00:21:41 Saved as file BACKUP1.MAX
+Sun Mar 20 00:23:25 Saved as file ~undo.max
+Sun Mar 20 00:23:49 Saved as file ~undo.max
+Sun Mar 20 00:23:50 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sun Mar 20 00:24:31 Saved as file ~undo.max
+Sun Mar 20 00:24:49 Saved as file ~undo.max
+Sun Mar 20 00:24:52 Saved as file ~undo.max
+Sun Mar 20 00:27:56 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sun Mar 20 00:28:14 Saved as file ~undo.max
+Sun Mar 20 00:28:20 Saved as file ~undo.max
+Sun Mar 20 00:29:49 Saved as file ~undo.max
+Sun Mar 20 00:30:08 Saved as file ~undo.max
+Sun Mar 20 00:30:09 Saved as file ~undo.max
+Sun Mar 20 00:30:11 Saved as file ~undo.max
+Sun Mar 20 00:30:20 Saved as file ~undo.max
+Sun Mar 20 00:30:25 Saved as file ~undo.max
+Sun Mar 20 00:30:27 Saved as file ~undo.max
+Sun Mar 20 00:30:30 Saved as file ~undo.max
+Sun Mar 20 00:30:52 Saved as file ~undo.max
+Sun Mar 20 00:31:03 Saved as file ~undo.max
+Sun Mar 20 00:31:06 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sun Mar 20 00:31:17 Saved as file ~undo.max
+Sun Mar 20 00:31:21 Saved as file ~undo.max
+Sun Mar 20 00:31:22 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sun Mar 20 00:32:02 Saved as file ~undo.max
+Sun Mar 20 00:32:07 Saved as file ~undo.max
+Sun Mar 20 00:32:10 Saved as file ~undo.max
+Sun Mar 20 00:32:11 Saved as file BACKUP1.MAX
+Sun Mar 20 00:32:21 Saved as file ~undo.max
+Sun Mar 20 00:32:22 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sun Mar 20 00:32:39 Saved as file ~undo.max
+Sun Mar 20 00:32:40 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sun Mar 20 00:33:09 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sun Mar 20 00:33:30 Saved as file ~undo.max
+Sun Mar 20 00:33:35 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sun Mar 20 00:34:32 Saved as file ~undo.max
+Sun Mar 20 00:35:49 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sun Mar 20 00:35:54 Saved as file ~undo.max
+Sun Mar 20 00:41:42 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sun Mar 20 00:42:07 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-7.MAX
+Sun Mar 20 00:42:12 Saved as file BACKUP1.MAX
+Sun Mar 20 00:42:46 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sun Mar 20 00:42:58 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sat Mar 19 10:54:08 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sat Mar 19 10:58:01 Saved as file ~undo.max
+Sat Mar 19 10:58:02 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sat Mar 19 10:59:13 Saved as file BACKUP1.MAX
+Sat Mar 19 11:03:45 Saved as file ~undo.max
+Sat Mar 19 11:04:44 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sat Mar 19 11:05:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\data\template.imp
+Sat Mar 19 11:05:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\data\template.imp
+Sat Mar 19 11:05:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\data\template.imp
+Sat Mar 19 11:05:53 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\data\template.imp
+Sat Mar 19 11:05:54 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\MN_THU VIEN ORCARD_STANDARD\LAYOUT_LIBBRARY_ORCAD9.2\1.MN_DIP_LIBRARY ORCAD.LLB
+Sat Mar 19 11:05:58 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\data\template.imp
+Sat Mar 19 11:06:01 Saved as file ~undo.max
+Sat Mar 19 11:06:03 Saved as file ~undo.max
+Sat Mar 19 11:06:04 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sat Mar 19 11:07:48 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sat Mar 19 11:07:52 Saved as file ~undo.max
+Sat Mar 19 11:08:33 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sat Mar 19 11:08:34 Saved as file ~undo.max
+Sat Mar 19 11:09:43 Saved as file BACKUP1.MAX
+Sat Mar 19 11:10:06 Saved as file ~undo.max
+Sat Mar 19 11:10:11 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sat Mar 19 11:12:39 Saved as file ~undo.max
+Sat Mar 19 11:12:41 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sat Mar 19 11:15:33 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sat Mar 19 11:17:27 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sat Mar 19 11:21:43 Saved as file BACKUP1.MAX
+Sat Mar 19 11:22:31 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sat Mar 19 11:23:54 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sat Mar 19 11:24:44 Saved as file ~undo.max
+Sat Mar 19 11:25:33 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sat Mar 19 11:25:52 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sat Mar 19 11:30:03 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sat Mar 19 11:30:25 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sat Mar 19 11:30:30 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sat Mar 19 11:31:54 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sat Mar 19 11:32:10 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-8.MAX
+Sat Mar 19 11:32:14 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-9.MAX
+Sat Mar 19 11:33:14 Saved as file BACKUP1.MAX
+Sat Mar 19 11:33:49 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-9.MAX
+Sat Mar 19 11:36:46 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-9.MAX
+Sat Mar 19 11:37:11 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-9.MAX
+Sat Mar 19 11:37:27 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-10.MAX
+Sat Mar 19 11:40:05 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-10.MAX
+Sat Mar 19 11:40:47 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-10.MAX
+Sat Mar 19 11:41:22 Saved as file BACKUP1.MAX
+Sat Mar 19 11:41:22 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-10.MAX
+Sat Mar 19 11:41:23 UserDiv from Layout.INI for AutoECO: 60
+Sat Mar 19 11:41:23 Loaded file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-10.MAX
+Sat Mar 19 11:41:23 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\MN_THU VIEN ORCARD_STANDARD\LAYOUT_LIBBRARY_ORCAD9.2\1.MN_DIP_LIBRARY ORCAD.LLB
+Sat Mar 19 11:41:23 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\MN_THU VIEN ORCARD_STANDARD\DIP_MN.LLB
+Sat Mar 19 11:41:23 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\LIB.DIP_MN.LLB
+Sat Mar 19 11:41:23 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\BCON100T.llb
+Sat Mar 19 11:41:23 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\BCON156T.llb
+Sat Mar 19 11:41:23 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\BGA.llb
+Sat Mar 19 11:41:23 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\CLCC.llb
+Sat Mar 19 11:41:23 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DCON050T.llb
+Sat Mar 19 11:41:23 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DCON085T.llb
+Sat Mar 19 11:41:23 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DIMM050F.llb
+Sat Mar 19 11:41:23 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DIMM050T.llb
+Sat Mar 19 11:41:23 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DIN.llb
+Sat Mar 19 11:41:23 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DIP100B.llb
+Sat Mar 19 11:41:23 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DIP100T.llb
+Sat Mar 19 11:41:23 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DSUBT.llb
+Sat Mar 19 11:41:23 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\DSUBT_HD.LLB
+Sat Mar 19 11:41:23 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\ECON100T.llb
+Sat Mar 19 11:41:23 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\FBUS.llb
+Sat Mar 19 11:41:23 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\ISA.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\JUMPER.LLB
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\LAYOUT.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\LCON100T.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PC104.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PCI.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PCON100T.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PCON156T.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PGA.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\PLCC.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\QUAD.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\QUADB.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\RELAY.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\RF.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SBUS.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SIMM050F.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SIMM050T.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SIMM100F.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SIMM100T.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SIP.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SM.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SOG.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\SOJ.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\STIFF.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TELE.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_AXIAL.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_CAP_P.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_CYLND.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_DIODE.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_DISC.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TM_RAD.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TO.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\TRAINING.LLB
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\VRES.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\WCON100T.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\XT.llb
+Sat Mar 19 11:41:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\library\ZIGZAG.llb
+Sat Mar 19 11:41:25 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-11.MAX
+Sat Mar 19 11:41:25 Loaded file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-11.MAX
+Sat Mar 19 11:41:33 Saved as file ~undo.max
+Sat Mar 19 11:41:53 Saved as file ~undo.max
+Sat Mar 19 11:42:04 Saved as file ~undo.max
+Sat Mar 19 11:42:11 Saved as file ~undo.max
+Sat Mar 19 11:42:34 Saved as file ~undo.max
+Sat Mar 19 11:42:46 Saved as file ~undo.max
+Sat Mar 19 11:42:48 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-11.MAX
+Sat Mar 19 11:43:02 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-11.MAX
+Sat Mar 19 11:43:14 Saved as file ~undo.max
+Sat Mar 19 11:43:16 Saved as file ~undo.max
+Sat Mar 19 11:43:26 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-11.MAX
+Sat Mar 19 11:43:35 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-11.MAX
+Sat Mar 19 11:43:45 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-11.MAX
+Sat Mar 19 11:44:10 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-11.MAX
+Sat Mar 19 11:44:28 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 11:45:19 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\data\template.imp
+Sat Mar 19 11:45:19 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\data\template.imp
+Sat Mar 19 11:45:19 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\data\template.imp
+Sat Mar 19 11:45:20 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\data\template.imp
+Sat Mar 19 11:45:20 Loaded file D:\ONEDRIVE\MN PROJECT\RESOURES\ELIBRARY\LIBRARY_ORCAD10.5\MN_THU VIEN ORCARD_STANDARD\LAYOUT_LIBBRARY_ORCAD9.2\1.MN_DIP_LIBRARY ORCAD.LLB
+Sat Mar 19 11:45:24 Loaded file C:\Cadence\SPB_16.2\tools\Layout_Plus\data\template.imp
+Sat Mar 19 11:45:26 Saved as file ~undo.max
+Sat Mar 19 11:45:28 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 11:45:44 Saved as file BACKUP1.MAX
+Sat Mar 19 11:46:40 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 11:48:04 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 11:49:53 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 11:50:25 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 11:51:14 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 11:52:35 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 11:53:22 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 11:54:39 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 11:55:19 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 11:55:35 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 11:57:14 Saved as file BACKUP1.MAX
+Sat Mar 19 11:57:35 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 11:59:45 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 12:00:41 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 12:02:41 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 12:02:55 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 12:03:03 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 12:03:37 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 12:08:15 Saved as file BACKUP1.MAX
+Sat Mar 19 12:08:50 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 12:09:43 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 12:09:50 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 12:13:43 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-12.MAX
+Sat Mar 19 12:13:50 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-13.MAX
+Sat Mar 19 12:14:50 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-13.MAX
+Sat Mar 19 12:15:11 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-13.MAX
+Sat Mar 19 12:18:26 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-13.MAX
+Sat Mar 19 12:19:15 Saved as file BACKUP1.MAX
+Sat Mar 19 12:19:40 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-13.MAX
+Sat Mar 19 12:20:26 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-13.MAX
+Sat Mar 19 12:21:07 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-13.MAX
+Sat Mar 19 12:21:16 Saved as file ~undo.max
+Sat Mar 19 12:21:26 Saved as file ~undo.max
+Sat Mar 19 12:21:29 Saved as file ~undo.max
+Sat Mar 19 12:21:53 Saved as file ~undo.max
+Sat Mar 19 12:21:57 Saved as file ~undo.max
+Sat Mar 19 12:21:59 Saved as file ~undo.max
+Sat Mar 19 12:22:13 Saved as file ~undo.max
+Sat Mar 19 12:22:25 Saved as file ~undo.max
+Sat Mar 19 12:22:27 Saved as file ~undo.max
+Sat Mar 19 12:22:29 Saved as file ~undo.max
+Sat Mar 19 12:22:40 Saved as file ~undo.max
+Sat Mar 19 12:22:47 Saved as file ~undo.max
+Sat Mar 19 12:22:55 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-13.MAX
+Sat Mar 19 12:23:23 Saved as file ~undo.max
+Sat Mar 19 12:23:41 Saved as file ~undo.max
+Sat Mar 19 12:23:45 Saved as file ~undo.max
+Sat Mar 19 12:24:23 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-13.MAX
+Sat Mar 19 12:24:27 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-14.MAX
+Sat Mar 19 12:27:24 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-14.MAX
+Sat Mar 19 12:27:39 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-14.MAX
+Sat Mar 19 12:28:09 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-14.MAX
+Sat Mar 19 12:28:50 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-14.MAX
+Sat Mar 19 12:29:02 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-14.MAX
+Sat Mar 19 12:29:45 Saved as file BACKUP1.MAX
+Sat Mar 19 12:30:53 Saved as file D:\ONEDRIVE\MN PROJECT\MY PROJECTS\RGB LED GLOBE - ROTATING SPHERE\RGB LED GLOBE\RGB LED GLOBE-15.MAX
